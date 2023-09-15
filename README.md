@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **inotebook**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **DevOps**
 
 - 🤝 I’m looking for help with **learning new stuffs**
 

@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-- 🔭 I’m currently working on **inotebook**
+- 🔭 I’m currently working on **Freestyle_Jenkins _CI/CD_Pipeline**
 
 - 🌱 I’m currently learning **DevOps**
 
